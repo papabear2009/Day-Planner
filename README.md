@@ -1,1 +1,2 @@
 # Day-Planner
+This daily work schedule planner will save your activities while changing color depending on the hours of the day. Grey for the time has passed, red for the current hour, and green for upcoming.
